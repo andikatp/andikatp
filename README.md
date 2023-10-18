@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 ### Connect with me
 <a href = "mailto:triprasetya_andika@yahoo.com"><img src="https://img.shields.io/badge/yahoo-%23EA4335.svg?&style=for-the-badge&logo=yahoo&logoColor=white" /></a>
 <a href = "https://www.linkedin.com/in/andikatp/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.facebook.com/andikatp" target="_blank"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://www.facebook.com/andika.triprasetya" target="_blank"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
 
 ### Tech Stack
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
