@@ -30,8 +30,10 @@ You can click the Preview link to take a look at your changes.
 ## 📊 GitHub Stats:
 <p align="left">
 <a href="https://github.com/andikatp">
-  <img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=andikatp&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andikatp&layout=compact&langs_count=8&theme=algolia"/>
+   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=andikatp&show_icons=true&theme=onedark">
+  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=andikatp&layout=compact&theme=onedark" />
+  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=andikatp&theme=github">
+  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=andikatp&theme=onedark" />
 </a>
 </p>
 
@@ -43,3 +45,6 @@ You can click the Preview link to take a look at your changes.
 
 ## 🎉 Activity
 ![snake gif](https://github.com/andikatp/andikatp/blob/output/github-contribution-grid-snake.gif)
+
+##
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I genuinely enjoy connecting with new people</b> so if you'd like to say <b>hi, I'd be delighted to get to know you better!</b> :)</em>
