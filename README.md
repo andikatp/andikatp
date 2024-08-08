@@ -44,7 +44,7 @@ You can click the Preview link to take a look at your changes.
 [![](https://visitcount.itsvg.in/api?id=andikatp&label=Profile%20Views&color=12&pretty=true)](https://visitcount.itsvg.in)
 
 ## 🎉 Activity
-![snake gif](https://github.com/andikatp/andikatp/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://raw.githubusercontent.com/andikatp/andikatp/output/github-contribution-grid-snake-dark.svg)
 
 ##
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I genuinely enjoy connecting with new people</b> so if you'd like to say <b>hi, I'd be delighted to get to know you better!</b> :)</em>
