@@ -40,3 +40,6 @@ You can click the Preview link to take a look at your changes.
 
 ## 👀 visit
 [![](https://visitcount.itsvg.in/api?id=andikatp&label=Profile%20Views&color=12&pretty=true)](https://visitcount.itsvg.in)
+
+## 🎉 Activity
+![snake gif](https://github.com/andikatp/andikatp/blob/output/github-contribution-grid-snake.gif)
