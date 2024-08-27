@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 👋 Hi, I’m @andikatp
-- 👀 I’m interested in Mobile Development
+- 👀 I’m interested in Mobile Development 
 - 🌱 I’m currently learning Flutter and Dart
 - 💞️ I’m looking for a job 
 - 📫 How to reach me
