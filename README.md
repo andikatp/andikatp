@@ -3,7 +3,7 @@
 - 👀 I’m interested in Mobile Development 
 - 🌱 I’m currently learning Flutter and Dart
 - 💞️ I’m looking for a job 
-- 📫 How to reach me
+- 📫 How to reach me 
 <!--- [Here](https://www.linkedin.com/in/andikatp/) --->
  
 <!---
