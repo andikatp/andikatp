@@ -3,7 +3,7 @@
 - 👀 I’m a flutter developer
 - 💞️ I’m looking for a freelance / remote job 
 - 📫 How to reach me 
-<!--- [Here](https://www.linkedin.com/in/andikatp/) --->
+<!--- [Here](https://www.linkedin.com/in/andikatp/) ---> 
  
 <!---
 andikatp/andikatp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
