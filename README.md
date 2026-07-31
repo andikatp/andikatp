@@ -38,7 +38,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=andikatp&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![](https://github-profile-trophy.vercel.app/?username=andikatp&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://trophygithubreadmelang.cybee.dpdns.org/?username=andikatp)
 
 ## 👀 visit
 [![](https://visitcount.itsvg.in/api?id=andikatp&label=Profile%20Views&color=12&pretty=true)](https://visitcount.itsvg.in)
