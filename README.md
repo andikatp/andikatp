@@ -27,12 +27,10 @@ You can click the Preview link to take a look at your changes.
 
 ## 📊 GitHub Stats:
 <p align="left">
-<a href="https://github.com/andikatp">
   <img width="440px" src="https://github-stats-extended.vercel.app/api?username=andikatp&show_icons=true&theme=dracula">
   <img width="385px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=andikatp&layout=compact&theme=onedark" />
   <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=andikatp&theme=github">
   <img width="385px" src="https://streak-stats.demolab.com/?user=andikatp&theme=onedark" />
-</a>
 </p>
 
 ## 🏆 GitHub Trophies
