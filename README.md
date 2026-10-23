@@ -9,7 +9,7 @@
 andikatp/andikatp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes. 
 --->
-
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/andikatp/badge.svg)](https://hub.xerj.org/contributors/andikatp)
 ## 🌐 Connect with Me
 <a href = "mailto:triprasetya_andika@yahoo.com"><img src="https://img.shields.io/badge/yahoo-%23EA4335.svg?&style=for-the-badge&logo=yahoo&logoColor=white" /></a>
 <a href = "https://www.linkedin.com/in/andikatp/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
